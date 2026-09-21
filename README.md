@@ -17,4 +17,4 @@ El desarrollo incluye:
 - **Herramienta de Desarrollo:** Oracle SQL Developer
 - **Lenguaje:** SQL (DDL / ALTER)
 
-## Fabián Segura
+## Fabián Segura / DuocUC
